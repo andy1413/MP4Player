@@ -19,7 +19,7 @@ Network is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'MP4Player', :git => 'https://github.com/wangfangshuai/MP4Player.git', :tag => '0.0.1'
+pod 'MP4Player', :git => 'https://github.com/wangfangshuai/MP4Player.git', :tag => '0.0.2'
 pod 'FileDownloadKit', :git => 'https://github.com/wangfangshuai/FileDownloadKit.git', :tag => '0.0.1'
 ```
 
