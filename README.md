@@ -7,7 +7,7 @@
 
 ## Example
 
-iOS Swift写的MP4Player工具，依赖于FileDownloaderKit实现传入url自动下载，下载完播放的功能。
+iOS Swift写的MP4Player工具，依赖于FileDownloadKit实现传入url自动下载，下载完播放的功能。
 提供collectionView滑动视频卡顿的解决方案。
 
 ## Requirements
@@ -20,6 +20,7 @@ it, simply add the following line to your Podfile:
 
 ```ruby
 pod 'MP4Player', :git => 'https://github.com/wangfangshuai/MP4Player.git', :tag => '0.0.1'
+pod 'FileDownloadKit', :git => 'https://github.com/wangfangshuai/FileDownloadKit.git', :tag => '0.0.1'
 ```
 
 ## Author
